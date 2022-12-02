@@ -52,21 +52,6 @@ free.
 - [affirmation](#affirmation)
 - [Conclusion](#Conclusionn)
 
-. 100% content creator earnings .
-. Articles
-. Short Articles
-  . Pictures
-. Video
-. Local Ads
-. Advertising Revenue Distribution
-
-Data Storage
-Account and Privacy
-Storage Space
-Social Responsibility Goals - Helping underprivileged children and depressed people
-
-Conclusion
-
 
 # Background
 Bitcoin introduced the blockchain concept in 2008 and built the first peer-to-peer cryptocurrency transfer network. in 2014, Vitalik and his partners launched a
