@@ -39,7 +39,7 @@ free.
   * [Storage Space](#storage-space)
   * [Articles](#articles)
   * [Short Essays](#short-essays)
-  * [All content creator earnings](all-content-creator-earnings)
+  * [All content creator earnings](#all-content-creator-earnings)
   * [Local Advertising](#local-advertising)
   * 
 . 
@@ -137,7 +137,7 @@ Articles are mainly for writers and media in professional fields to share knowle
 
 Each short article is between 1 and 500 words and can be accompanied by 1-9 images or a video. Users can choose to post text only, text with images and text with video. 
 
-*  ##All content creator earnings
+*  ## All content creator earnings
 Anyone can post text, images and videos on the program to earn revenue. All creative revenue is based on viewers or readers' rewards. To motivate content creators to create works that viewers like. There is no limit to the amount of reward that viewers can give to support the creators. It does not depend on the number of views, likes and comments. Even if a video has only 1 view, it has the chance to be rewarded by the viewers and the creator is still entitled to the revenue. 100% of the reward revenue goes to the creator of the content.
 
 *  ## Local Advertising
