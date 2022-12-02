@@ -26,17 +26,14 @@ free.
 - [Gift Wrap Creators](#gift-wrap-creators) 
 - [Gift Wrap Mall](#gift-wrap-mall) 
 - [Social Media App](#social-media-applications) 
-* [Contracts](#contracts)
+
 - [Social media applications](#social-media-applications)
-
-
-
-Social Media App
-. 
-  . Message Processing 
- . Fee-free peer-to-peer transfers and gift-giving
- 
-. Personal Center
+  * [Contracts](#contracts)
+  * [Message Processing](#message-processing)
+  * [Transfers and Gift Giving with No Fees In chat](#transfers-and-gift-giving-with-no-fees-in-chat)
+  * [Online video calls and voice calls](#online-video-calls-and-voice-calls)
+  * [Personal Center](#personal-center)
+  * 
 . Media 
 . 100% content creator earnings .
 . Articles
@@ -92,4 +89,13 @@ user's account on the app, and the remaining 5% will be transferred to the alloc
 on the percentage of holdings.
 
 # Social media applications
-* ## Contracts
+*  ## Contracts
+  Users can search for users by entering their wallet address or ENS domain name, and if the user exists, they can add the searched user as a friend. When one party sends a friend request, the other party will receive a verification message, and once the message is verified, it will be considered as an agreement to be added as a friend, and both the sender of the message and the verified party will appear in both contact lists.
+*  ## Message Processing 
+Two users who exist simultaneously with the contact list can interact in real time by sending and receiving messages including emoticons, pictures, audio, video, documents and zip files. Live online voice calls and video calls are also supported. Each user can receive thousands of messages simultaneously. When a user sends a message, it is saved to their own storage after 3 minutes and can be undone within 3 minutes if they send a message by mistake or by mistake. To protect the privacy of the user's chat, all text messages are stored in the user's private memory.
+*  ## Transfers and Gift Giving with No Fees In chat 
+*  Transfers and gift packages can be done between any two different users in the chat without any fees.
+*  ## Online video calls and voice calls
+Online video calls and voice calls can be made between any two different users for any duration without network limitations. In general, the call quality depends on the quality of the network signal in the user's area.
+*  ## Personal Center
+Users can set and edit personalized display content through the Personal Center. This includes but is not limited to privacy settings, general settings, gift packs, language settings, version updates, and help center.
