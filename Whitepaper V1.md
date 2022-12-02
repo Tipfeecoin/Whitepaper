@@ -50,12 +50,12 @@ free.
 - [TPF Economic Model](#tpf-economic-model)
 - [Social Responsibility Goals is Helping underprivileged children and depressed people](#social-responsibility-goals-is-helping-underprivileged-children-and-depressed-people)
 - [affirmation](#affirmation)
-- [Conclusion](#Conclusionn)
+- [Conclusion](#conclusion)
 
 
 # Background
 Bitcoin introduced the blockchain concept in 2008 and built the first peer-to-peer cryptocurrency transfer network. in 2014, Vitalik and his partners launched a
-new Turing-complete blockchain network system, Ether, which has allowed more and more creative entrepreneurs to build many business applications in different 
+new Turing-complete blockchain network system, Ethereum, which has allowed more and more creative entrepreneurs to build many business applications in different 
 fields on Ethereum. However, so far we haven't seen a social application with a good user experience being built on the blockchain network. Although there are some social
 platforms with a large number of users but just like a blogging system and do not have a good user experience like twitter and Whatsapp. Starting September 7, 2021,
 when El Salvador officially declares Bitcoin as legal tender in the country, we believe that cryptocurrencies will be more quickly integrated into every industry 
