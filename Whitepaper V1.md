@@ -17,7 +17,6 @@ value attributes. The application consists of instant messaging and social media
 and outgoing chat messages simultaneously. Social activity allows users to select gift effects to give to friends in the gift shop. Users post content in the
 media space and have the opportunity to earn money by posting content. The final form of the application is a social application that is available to all for
 free.
-<!-- MarkdownTOC depth=4 autolink=true bracket=round list_bullets="-*+" -->
 
 
 - [Background](#background) 
@@ -53,7 +52,7 @@ free.
 - [Conclusion](#conclusion)
 
 
-# Background
+## Background
 Bitcoin introduced the blockchain concept in 2008 and built the first peer-to-peer cryptocurrency transfer network. in 2014, Vitalik and his partners launched a
 new Turing-complete blockchain network system, Ethereum, which has allowed more and more creative entrepreneurs to build many business applications in different 
 fields on Ethereum. However, so far we haven't seen a social application with a good user experience being built on the blockchain network. Although there are some social
@@ -65,12 +64,12 @@ technology should be widely integrated into society to provide services for soci
 technology brings, especially in the social and media fields. We believe that a decentralized social application combining the features of Whatsapp, Twitter,
 Instagram, Amazon and DoorDash should be built in the blockchain network to run continuously in the blockchain network and provide services to the society。
 
-# About Tipfee token
+## About Tipfee token
 Tipfee, a peer-to-peer digital gift
 Tipfee token is an ERC20 token published on the ethereum network. It was minted by creator tipfeecoin.eth on Sep-24-2022 01:33:23 PM +UTC and published on the 
 Ethernet network under the symbol TPF. we define Tipfee as a peer-to-peer digital gift.
 
-# Gift Wrap
+## Gift Wrap
 Gift Wrap
 Gift wrapping is a $TPF packaging effect consisting of visual effects and music. The core of gift wrap is a gift package for different countries and usage scenarios
 for different holidays and regions. Gift wrapping includes but is not limited to: birthday gifts, holiday gifts, funny gifts, couple gifts, greeting gifts and 
@@ -78,20 +77,20 @@ visiting gifts. All of these gifts can be purchased through the gift wrap store 
 
 Once the user has purchased the package, they can freely combine the effects and music in the chat and send it to their friends according to their needs.
 
-# Gift Wrap Mall
+## Gift Wrap Mall
 Once the gift wrap effects are uploaded to the application, the author can freely price and sell them in the Gift Wrap Mall, where users can purchase gift wrap 
 effects and music on demand.
 To make it easier for users to purchase gift packs, they will be categorized according to usage scenarios. In addition, in order to facilitate users to find the 
 precise gift package they want, users can enter keywords in the search box to search.
 
-# Gift Wrap Creators
+## Gift Wrap Creators
 The visual effects and music of the Gift Pack are created by any effect creator and music producer who holds $TPF. 95% of the Gift Pack proceeds go to the author 
 and the remaining 5% will be distributed to all $TPF holders. Each time a Gift Pack is sold, 95% of the funds from the sale will be transferred directly to the 
 user's account on the app, and the remaining 5% will be transferred to the allocation pool. Funds in the distribution pool will be allocated to $TPF holders based
 on the percentage of holdings.
 
 
-# Social media applications
+## Social media applications
 *  ## Contracts
   Users can search for users by entering their wallet address or ENS domain name, and if the user exists, they can add the searched user as a friend. When one party sends a friend request, the other party will receive a verification message, and once the message is verified, it will be considered as an agreement to be added as a friend, and both the sender of the message and the verified party will appear in both contact lists.
   
@@ -149,25 +148,25 @@ Brand Advertising are displayed on the app differently than local Advertising in
 
 The charitable fund is primarily responsible for achieving the social responsibility goals set by our executives. The use of the charitable fund is determined by a vote of all $TPF holders.
 
-After an advertiser pays, the program reads the amount of the ad from the advertiser's paid funds account and calculates the portion that belongs to the $TPF holder.
+After an advertiser pays, the program reads the amount of the ad from the advertiser's paid funds account and calculates the portion that belongs to the $TPFholder.
 All proceeds from the ad are credited to a wallet address. Depending on the percentage, 10% will be deposited into the charity fund, 55% into the dividend fund and 35% into the operating fund. The program reads all addresses holding $TPF from the Ethernet and within the application, respectively, and reorders them according to the number of $TPF held, from largest to smallest. The program will call the advertised fund distribution wallet address and calculate the amount due to each $TPF holder.
 Once the calculation is complete, the program will transfer the proceeds from the allocation address to the wallet addresses of all $TPF holders one by one. If the holder is already logged in the program, the transfer will be made directly to the holder's in-app account with an alert, otherwise the transfer will be made to the holder's wallet address.
 
- # Data Storage
+ ## Data Storage
 
 Each data storage in the application will be stored on a decentralized network with distributed storage technology. Text, image and video files are hashed to prevent data tampering. The original data is sent to the ipfs network along with the hash value, and the ipfs network returns the storage address.
 
 
- # Account and Privacy
+ ## Account and Privacy
 To protect user privacy, all users will be logged into the Tipfee application through their own cryptocurrency wallet. When a user logs out of the application, all data being updated, except for temporary chat logs, will not be received and disconnected from the user in the application interface, and all content will be reloaded when the user logs back in.
 
- # Client Information Protection
+ ## Client Information Protection
 As with all centralized switching applications, when a user's end device connects to the application, the application processes the appropriate information based on the IP of the end device. The difference is that Tipfee's application compiles a random hash of the information it obtains after obtaining the IP of the end device. By default, the IP information of each end device will be randomly compiled 32 times per second. The number of random compilation operations per second will be gradually increased if there is enough computational space. This is to ensure that the information of each end device is not easily decompiled.
 
- # Storage Space
+ ## Storage Space
 Each account will have its own unique data storage space for text, images, videos and documents as well as compressed files. No one can access it except the user himself. The user owns the storage space and the user needs to set a key to access it. All stored data cannot be modified or deleted.
 
- # TPF Economic Model
+ ## TPF Economic Model
 
 Total number of tokens 12,000,000,000,000
 
@@ -177,16 +176,16 @@ Team hold 10.3%
 
 Community promotion 8%
 
- # Social Responsibility Goals is Helping underprivileged children and depressed people
+ ## Social Responsibility Goals is Helping underprivileged children and depressed people
 $TPF was created with the main purpose of building an economical community and application to help each other. We not only want to achieve our business goals, but also to help others. $TPF will help underprivileged children and depressed people, and we actively encourage $TPF holders to help them. They can get help from us when they are in danger and desperate.
 About 1 billion children worldwide are living in multidimensional poverty, according to UNICEF. This means they lack basic necessities such as nutrition or clean water, and about 100 million more children are living in multidimensional poverty. 
 . Depression
 Depression is a common disorder worldwide, with an estimated 5% of adults suffering from depression, globally. More women than men are affected by depression, and many depressions lead to suicide.
 According to the World Health Organization, depression affects approximately 3.8% of the global population, including 5.0% of adults and 5.7% of adults over the age of 60. About 280 million people worldwide suffer from depression. Moderate or severe depression can become a serious health condition.
 
- # Affirmation
+ ## Affirmation
 
 To ensure uniformity of white paper content and applications, we have implemented a white paper updateability policy. When a white paper is updated, the updated content will not overwrite the original content, but will be linked in a way that distinguishes the different versions. This also helps $TPF holders and users to know and understand the status of the project. The application will be developed strictly in accordance with the white paper, but if the application goes beyond the scope of the white paper, it will be updated in the V2 version of the white paper, as the white paper is not yet complete.
 
- # Conclusion
+ ## Conclusion
 Tipfeecoin will be a blockchain social application that is free for all to try without registration, and we believe that it will contribute to society through a more approachable and enjoyable social and media experience. At the same time, content creators will be able to earn money directly from their creations. $TPF Holders.
