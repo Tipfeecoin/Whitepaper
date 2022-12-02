@@ -33,9 +33,16 @@ free.
   * [Transfers and Gift Giving with No Fees In chat](#transfers-and-gift-giving-with-no-fees-in-chat)
   * [Online video calls and voice calls](#online-video-calls-and-voice-calls)
   * [Personal Center](#personal-center)
-  * [Privacy Settings](#privacy-settings)
+  * [Privacy Settings](#privacy-setting) 
+  * [Language settings](#language-setting)
+  * [Font size setting](#font-size-setting)
+  * [Storage Space](#storage-space)
+  * [Articles](#articles)
+  * [Short Essays](#short-essays)
+  * [100% content creator earnings](100%-content-creator-earnings)
+  * [Local Advertising](#local-advertising)
   * 
-. Media 
+. 
 . 100% content creator earnings .
 . Articles
 . Short Articles
@@ -109,5 +116,34 @@ Online video calls and voice calls can be made between any two different users f
 Users can set and edit personalized display content through the Personal Center. This includes but is not limited to privacy settings, general settings, gift packs, language settings, version updates, and help center.Privacy Settings.
 
 
-*  ## Privacy Settings
+*  ## Privacy Setting
 In the privacy settings, users can edit and change their storage space password by themselves.
+
+*  ## Language setting
+  In order to meet the needs of users in different countries and regions, the application allows users to choose their own language to use.
+
+*  ## Font size setting
+  
+ Considering different people's eye and screen habits, the application will provide different application font sizes for users to choose.
+ 
+*  ## Storage Space
+Users can purchase additional storage space according to their storage space usage needs.
+
+
+*  ## Articles 
+Articles are mainly for writers and media in professional fields to share knowledge and publish news, students and researchers to publish research papers, and writers and web fiction creators to publish articles. In addition to text, images and videos can be inserted into the body of the article, and there is no time limit for videos.
+
+*  ## Short Essays
+
+Each short article is between 1 and 500 words and can be accompanied by 1-9 images or a video. Users can choose to post text only, text with images and text with video. 
+
+*  ## 100% content creator earnings
+Anyone can post text, images and videos on the program to earn revenue. All creative revenue is based on viewers or readers' rewards. To motivate content creators to create works that viewers like. There is no limit to the amount of reward that viewers can give to support the creators. It does not depend on the number of views, likes and comments. Even if a video has only 1 view, it has the chance to be rewarded by the viewers and the creator is still entitled to the revenue. 100% of the reward revenue goes to the creator of the content.
+
+*  ## Local Advertising
+
+Ad types are divided into picture ads and video ads, and the content objects of ads include but are not limited to gift stores, flower stores, hotels, restaurants, gyms, bars, tourist attractions, clothing stores, food stores, pet stores, tool stores, and department stores. 
+
+The Advertising are presented as content within the app in a way that does not disturb the user and makes the ads part of the content. Ads automatically switch to different content based on the local time. Different ads will be displayed to users at different times to achieve real-time user selectable demand. Users can purchase or add to the shopping cart directly below the ad display.
+ 
+ 
