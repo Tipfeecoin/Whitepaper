@@ -70,7 +70,7 @@ Any user can add tags to content that they are interested in. For content creato
   
 *  ## Earn money for sharing
 When a user shares quality content from other creators to their own space. If a person views the original content from the shared connection and rewards the content, the active user will receive 50% of the reward amount and the other 50% is distributed to the original content author.
-![Image](https://github.com/Tipfeecoin/File/blob/main/Share_content.png)
+![Image](https://github.com/Tipfeecoin/File/blob/main/ShareFlow1.png)
 
 
 *  ## Publicly shared content
@@ -80,7 +80,7 @@ All shared content is public and cannot be hidden or deleted to ensure that qual
 Add comments and earn rewards
 The app introduces a comment reward mechanism to increase the activity and interactivity of the content, while complementing the original author's content, in order to make comments useful to more users. Through the reward mechanism, users will be encouraged to actively participate in commenting interactions and will have the opportunity to earn rewards after posting comments under other people's content. 80% of the reward amount is given to the commenter, and the remaining 20% is given to the original author of the content. The more rewards a comment has, the higher the ranking of that comment will be. This also means that comments with a high rate of acceptance will have the opportunity to be seen by a larger number of people.
 
-![Image](https://github.com/Tipfeecoin/File/blob/main/Comment_item.png)
+![Image](https://github.com/Tipfeecoin/File/blob/main/CommentFlow.png)
 
 *  ## Online Mall
 The application allows any account to apply to become a takeaway merchant by providing a legal local business license. Merchants can add items to the app store and sell them to all users. The Online Store is intended primarily for local businesses and is designed to make it easy for users to quickly find local items in the online mall. This includes, but is not limited to, local department stores, movie tickets, tourist attraction tickets, restaurants, hostels, bars, and hair salons.
