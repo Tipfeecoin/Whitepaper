@@ -154,7 +154,9 @@ After an advertiser pays, the program reads the amount of the ad from the advert
 All proceeds from the ad are credited to a wallet address. Depending on the percentage, 10% will be deposited into the charity fund, 55% into the dividend fund and 35% into the operating fund. The program reads all addresses holding $TPF from the Ethernet and within the application, respectively, and reorders them according to the number of $TPF held, from largest to smallest. The program will call the advertised fund distribution wallet address and calculate the amount due to each $TPF holder.
 Once the calculation is complete, the program will transfer the proceeds from the allocation address to the wallet addresses of all $TPF holders one by one. If the holder is already logged in the program, the transfer will be made directly to the holder's in-app account with an alert, otherwise the transfer will be made to the holder's wallet address.
 
-![Image](https://github.com/Tipfeecoin/File/blob/main/40.png)
+![Image](https://github.com/Tipfeecoin/File/blob/main/Ads%20Revenge.png)
+![Image](https://github.com/Tipfeecoin/File/blob/main/Comment_item.png)
+![Image](https://github.com/Tipfeecoin/File/blob/main/Share_content.png)
 
  ## Data Storage
 
