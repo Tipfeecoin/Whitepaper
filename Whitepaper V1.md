@@ -9,6 +9,8 @@ Author Holdtone \
 We can not change the world but we can change ourselves. \
 November 8, 2022
 
+Disclaimer: This draft white paper is for informational purposes only and no warranty is made as to its accuracy or the correctness of the conclusions drawn in this white paper. The content is not warranted, including but not limited to: (Ⅰ) merchantability, fitness for a particular purpose, fitness for purpose, use, title, or non-infringement; (Ⅱ) the content of this white paper is free of errors; (Ⅲ) the content of the white paper and the referenced materials do not infringe the rights of third parties. (Ⅳ) The content is identical to the application already in use, including but not limited to: label naming rules, text titles, references.
+
 
 
 ## Abstract
@@ -16,10 +18,10 @@ The application introduces a new decentralized social networking application mod
 
 
 - [Background](#background) 
-- [About Tipfee token](#about-tipfee-token) 
-- [Gift Wrap](#gift-wrap) 
-- [Gift Wrap Creators](#gift-wrap-creators) 
-- [Gift Wrap Mall](#gift-wrap-mall) 
+- [Permission-based user management](#permission-based-user-management) 
+- [Community Governance](#community-governance) 
+- [Get rewarded for producing content](#get-rewarded-for-producing-content) 
+- [Full Web Access Tag](#full-web-access-tag) 
 - [Social Media App](#social-media-applications) 
 
 - [Social media applications](#social-media-applications)
@@ -59,16 +61,16 @@ However, as the development of existing blockchain and web3 application scenario
 
 In some traditional web applications, good professional content creators earn very low income by sharing their videos and articles, which makes many good creators less motivated to create content because they can't earn more income by sharing their works. Based on this situation, we need to make changes to enable more talented and professional content creators to earn more money by creating content.
 
-## About Tipfee token
+## Permission-based user management
 When a user logs into the application for the first time using a cryptocurrency wallet, the account is activated and the activated account belongs to the General user group. The normal user group does not have access to other account groups. If an account in the general user group wants to gain access to other user groups in the application, it can request to change the user group in the application to gain access to the application. Each user group account can only operate the corresponding account, but it is still possible to transfer funds between different user groups. For example, an account in the general user group cannot perform all operations of a seller's account, but it is possible to transfer funds between the general account and the seller's account.
 
-## Gift Wrap
+## Community Governance
 Wihle users encounter spam (e.g., large amounts of pornography, violent and gory information, uncomfortable information) while browsing, they can report it. Reported messages will be submitted to human review. Once the information is confirmed as spam, the reported content publisher will have their privileges reduced and receive a warning. When the number of warnings reaches 5, the warned account will be deactivated and cannot be used normally. Deactivated accounts can still view messages on the app, but can no longer post any content, purchase products, or receive messages.
 
-## Gift Wrap Mall
+## Get rewarded for producing content
 Every user can share beautiful things and items in the app through text, pictures and videos. When the content is successfully published, there will be a chance to get rewards from the audience, and there is no limit to the amount of the rewards. To motivate content creators to produce more great content, all rewards are fully owned by the author. The rewards do not depend on the number of reads, likes or retweets, which means that each content producer only has to serve his followers. All rewards are determined by readers and viewers.
 
-## Gift Wrap Creators
+## Full Web Access Tag
 Full Web Access Tag is an ad tagging module with time limits and content push. It is only available when a user posts content.  When content is tagged as Full Web Access, that content is seen by everyone in the application.
 
 The application generates 120 network-wide access tags every 6 hours and randomly assigns them to all normal users with different permissions.
