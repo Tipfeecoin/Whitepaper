@@ -32,6 +32,7 @@ The application introduces a new decentralized social networking application mod
 - [Privacy Protection](#privacy-protection)
 - [File Storage](#file-storage) 
 - [Local Advertising](#local-advertising)
+- [Advertising Revenue Distribution](#advertising-revenue-distribution)
 - [TPF Economic Model](#tpf-economic-model)
 - [Helping underprivileged children and people with depression](#helping-underprivileged-children-and-people-with-depression)
 - [Conclusion](#conclusion)
@@ -103,6 +104,9 @@ The Advertising types are divided into picture ads and video ads, and the conten
 The Advertising are presented as content within the app in a way that does not disturb the user and makes the ads part of the content. Ads automatically switch to different content based on the local time. Different ads will be displayed to users at different times to achieve real-time user selectable demand. Users can purchase or add to the shopping cart directly below the ad display.
 
 Here is an application example using JavaScript code.
+<pre>
+<code>
+
 var h = new Date().getHours();
 var t = "";
 var n = "";
@@ -117,7 +121,12 @@ if(h >= 7 && h <= 13){
 document.getElementById('time_ads').innerHTML = t;
 
 
-*  ## Articles 
+</code>
+</pre>
+
+
+
+*  ## Advertising Revenue Distribution
 55% of each ad revenue belongs to all $TPF holders, 35% will go to the app's operating fund, and 10% will go to support charitable causes. The charitable fund is primarily responsible for achieving the social responsibility goals set by our executives. The use of the charitable fund is determined by a vote of all $TPF holders.
 
 The program calculates and deposits the amount paid by advertisers into the distribution account, 10% will be deposited into the charitable fund, 55% will be distributed to all $TPF holders, and 35% will be deposited into the operating fund. The program reads the addresses of all $TPF holders from the Ethernet and within the application, respectively, and reorders them from largest to smallest based on the number of $TPF held. The amount due to each $TPF holder is calculated. Once the calculation is complete, the program will transfer the proceeds from the allocated account to the accounts of all $TPF holders one by one. If the holder is already logged into the program, the transfer will go directly to the holder's in-app account with an alert, otherwise it will go to the holder's wallet address.
