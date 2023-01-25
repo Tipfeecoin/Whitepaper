@@ -107,19 +107,18 @@ Here is an application example using JavaScript code.
 <pre>
 <code>
 
-var h = new Date().getHours();
-var t = "";
-var n = "";
-if(h >= 7 && h <= 13){
-        t = "Ads1";  
-}else if(h >= 14 && h <= 20){
-        t = "Ads2";
-}
-  else if(h >= 21 || h <= 6){
-        t = "Ads3";
-  }
-document.getElementById('time_ads').innerHTML = t;
-
+       var h = new Date().getHours();
+       var t = "";
+       var n = "";
+       if(h >= 7 && h <= 13){
+       t = "Ads1";  
+　　　  }else if(h >= 14 && h <= 20){
+       t = "Ads2";
+　　　　}
+       else if(h >= 21 || h <= 6){
+       t = "Ads3";
+  　　 }
+　     document.getElementById('time_ads').innerHTML = t;
 
 </code>
 </pre>
