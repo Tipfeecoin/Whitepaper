@@ -1,13 +1,20 @@
-# TIPFEE WHITE PAPER
-
-TIPFEE WHITE PAPER V1  
+# TIPFEE WHITEPAPER V1
 
 
 
-
-Author Holdtone \
-We can not change the world but we can change ourselves. \
+<br>
+<br>
+<br>
+<br>
+©Holdtone 
+<br>
+<br>
 November 8, 2022
+<br>
+<br>
+<br>
+<br>
+<br>
 
 Disclaimer: This draft white paper is for informational purposes only and no warranty is made as to its accuracy or the correctness of the conclusions drawn in this white paper. The content is not warranted, including but not limited to: (Ⅰ) merchantability, fitness for a particular purpose, fitness for purpose, use, title, or non-infringement; (Ⅱ) the content of this white paper is free of errors; (Ⅲ) the content of the white paper and the referenced materials do not infringe the rights of third parties. (Ⅳ) The content is identical to the application already in use, including but not limited to: label naming rules, text titles, references.
 
