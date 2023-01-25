@@ -18,10 +18,16 @@ November 8, 2022
 
 Disclaimer: This draft white paper is for informational purposes only and no warranty is made as to its accuracy or the correctness of the conclusions drawn in this white paper. The content is not warranted, including but not limited to: (Ⅰ) merchantability, fitness for a particular purpose, fitness for purpose, use, title, or non-infringement; (Ⅱ) the content of this white paper is free of errors; (Ⅲ) the content of the white paper and the referenced materials do not infringe the rights of third parties. (Ⅳ) The content is identical to the application already in use, including but not limited to: label naming rules, text titles, references.
 
-
+<br>
+<br>
+<br>
 
 *  ## Abstract
 The application introduces a new decentralized social networking application model designed to enable users to share interesting stories while being rewarded with tokens. This is where users are rewarded for participating in sharing, commenting and contributing to tags as well as special status and achievements. The application architecture provides account rights management, multiple authentication, and file space management. It allows users to interact with ads in a smooth and friendly way, allowing more interesting and specialized content to help more people, while allowing regular users to use it without paying for it.
+<br>
+<br>
+<br>
+*  ## Catalog
 
 
 - [Background](#background) 
@@ -43,7 +49,9 @@ The application introduces a new decentralized social networking application mod
 - [TPF Economic Model](#tpf-economic-model)
 - [Helping underprivileged children and people with depression](#helping-underprivileged-children-and-people-with-depression)
 - [Conclusion](#conclusion)
-
+<br>
+<br>
+<br>
 
 *  ## Background
 Blockchain technology originated with the introduction of Bitcoin in 2008, and since then entrepreneurs and developers have been working to promote the technology to support a wider range of applications on a single blockchain platform. It wasn't until 2014 that Ether was officially created, meaning a Turing-complete blockchain network system foundation could run a wider range of applications.
@@ -53,26 +61,43 @@ While some projects built on the blockchain are working to create applications b
 However, as the development of existing blockchain and web3 application scenarios is still in its infancy, this leaves a very large space and possibility for the combination of the vast majority of the real economy and blockchain.
 
 In some traditional web applications, good professional content creators earn very low income by sharing their videos and articles, which makes many good creators less motivated to create content because they can't earn more income by sharing their works. Based on this situation, we need to make changes to enable more talented and professional content creators to earn more money by creating content.
+<br>
+<br>
+<br>
 
 *  ## Permission-based user management
 When a user logs into the application for the first time using a cryptocurrency wallet, the account is activated and the activated account belongs to the General user group. The normal user group does not have access to other account groups. If an account in the general user group wants to gain access to other user groups in the application, it can request to change the user group in the application to gain access to the application. Each user group account can only operate the corresponding account, but it is still possible to transfer funds between different user groups. For example, an account in the general user group cannot perform all operations of a seller's account, but it is possible to transfer funds between the general account and the seller's account.
+<br>
+<br>
+<br>
 
 *  ## Community Governance
 Wihle users encounter spam (e.g., large amounts of pornography, violent and gory information, uncomfortable information) while browsing, they can report it. Reported messages will be submitted to human review. Once the information is confirmed as spam, the reported content publisher will have their privileges reduced and receive a warning. When the number of warnings reaches 5, the warned account will be deactivated and cannot be used normally. Deactivated accounts can still view messages on the app, but can no longer post any content, purchase products, or receive messages.
-
+<br>
+<br>
 *  ## Get rewarded for producing content
 Every user can share beautiful things and items in the app through text, pictures and videos. When the content is successfully published, there will be a chance to get rewards from the audience, and there is no limit to the amount of the rewards. To motivate content creators to produce more great content, all rewards are fully owned by the author. The rewards do not depend on the number of reads, likes or retweets, which means that each content producer only has to serve his followers. All rewards are determined by readers and viewers.
+
+<br>
+<br>
+<br>
 
 *  ## Full Web Access Tag
 Full Web Access Tag is an ad tagging module with time limits and content push. It is only available when a user posts content.  When content is tagged as Full Web Access, that content is seen by everyone in the application.
 
 The application generates 120 network-wide access tags every 6 hours and randomly assigns them to all normal users with different permissions.
 Once a user has been given a network-wide access tag, they can add the tag to their own creative content or sell it to other users.
+<br>
+<br>
+<br>
 
 
 *  ## Achievement Tags
 
 Any user can add tags to content that they are interested in. For content creators, this is important. Each tag represents an achievement that has been earned by the content creator, and these achievements will be displayed on the home page of the content creator. Each hashtag earned by a user will show the source and display the username of the giver. This will give a sense of accomplishment to both the creator of the content and the person who gave the tag. Any user will be able to share the tags and achievements they have earned on other networks or social applications.
+<br>
+<br>
+<br>
   
   
 *  ## Earn money for sharing
@@ -82,6 +107,10 @@ When a user shares quality content from other creators to their own space. If a 
 
 *  ## Publicly shared content
 All shared content is public and cannot be hidden or deleted to ensure that quality content is distributed to as many people as possible. Every piece of content that is shared is a representation of the attitude and image of the person who shares it. This will have an impact on the popularity of the person sharing. If a user shares content that is spam, it may have a negative impact on the user's popularity in the application and may even be the subject of a report by other users. Conversely, users who share content that is helpful to others will increase their own popularity.
+<br>
+<br>
+<br>
+
 
 *  ## Add comments and earn rewards
 Add comments and earn rewards
@@ -93,24 +122,45 @@ The app introduces a comment reward mechanism to increase the activity and inter
 The application allows any account to apply to become a takeaway merchant by providing a legal local business license. Merchants can add items to the app store and sell them to all users. The Online Store is intended primarily for local businesses and is designed to make it easy for users to quickly find local items in the online mall. This includes, but is not limited to, local department stores, movie tickets, tourist attraction tickets, restaurants, hostels, bars, and hair salons.
 
 There is a unique mapping between each merchant account and its corresponding privilege level. An account cannot be used for personal account processing and operations once it has been used for merchant account operations. This account mapping ensures the uniqueness and authenticity of merchant accounts. This means that the true status and usage of each user can be identified .
+<br>
+<br>
+<br>
+
+
 
 
 *  ## Transaction History
 Each transaction record will be stored in a list of seller and buyer transaction records, and both parties will share a unique Transaction Record Value. The record value is automatically generated when a transaction is created. In the event that one of the parties to a transaction disputes the transaction, the stored transaction history can be used for inquiries and follow-up．this applies to both online and offline transactions.
+<br>
+<br>
+<br>
+
+
 
 *  ## Privacy Protection
   A login via the user's encrypted wallet is required for each account. Each user has a separate storage space that can only be opened with the correct password. If, unfortunately or in exceptional cases, the account is illegally accessed, but the illegal visitor does not have the password to access the storage space, then the person who was illegally accessed will not be able to open the storage space either.
+<br>
+<br>
+<br>
 
 *  ## File Storage
   
  In order to ensure that each account owns the content it posts, each account requires a certain amount of storage space when posting content. The amount of storage space required will increase as more information is posted.
+<br>
+<br>
+<br>
  
 *  ## Local Advertising
 The Advertising types are divided into picture ads and video ads, and the content objects of ads include but are not limited to gift stores, flower stores, hotels, restaurants, gyms, bars, tourist attractions, clothing stores, food stores, pet stores, tool stores, and department stores. 
 
 The Advertising are presented as content within the app in a way that does not disturb the user and makes the ads part of the content. Ads automatically switch to different content based on the local time. Different ads will be displayed to users at different times to achieve real-time user selectable demand. Users can purchase or add to the shopping cart directly below the ad display.
+<br>
+<br>
+
 
 Here is an application example using JavaScript code.
+<br>
+<br>
 <pre>
 <code>
 
@@ -150,14 +200,30 @@ Uniswap injected  89.7%
 
 Team hold  10.3%
 
+<br>
+<br>
+<br>
+
+
 *  ## Helping underprivileged children and people with depression
 
 $TPF was created with the main purpose of building an economic community and application to help each other. We not only want to achieve our business goals, but also to help others. $TPF will help underprivileged children and depressed people, and we actively encourage $TPF holders to help them. When they are in danger and desperate, they can get help from us.
 According to UNICEF, about one billion children worldwide live in multidimensional poverty. This means they lack basic necessities such as nutrition or clean water, and about 100 million children live in multidimensional poverty.
-. Depression
+
+<br>
+
 Depression is a common disorder in the world, with an estimated 5% of adults worldwide suffering from depression. More women than men are affected by depression, and many depressions lead to suicide.
 According to the World Health Organization, depression affects about 3.8% of the global population, including 5.0% of adults and 5.7% of adults over the age of 60. Approximately 280 million people worldwide suffer from depression. Moderate or severe depression can become a serious health condition.
+
+<br>
+<br>
+<br>
+
 
 *  ## Conclusion
 
 Tipfee application is a decentralized blockchain community experiment, which will practice and improve over time to provide a better user experience and service offering to a broader range of users. It will also help more and more people with the advancement of blockchain technology and the efforts of all the members of the community. This is a small part of an ambitious blueprint for easy-to-use, scalable global blockchain social services, making decentralized applications, especially social applications, easier, freer and more active to bring more possibilities to the blockchain application world.
+<br>
+<br>
+<br>
+<br>
