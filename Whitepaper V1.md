@@ -102,8 +102,17 @@ Any user can add tags to content that they are interested in. For content creato
   
 *  ## Earn money for sharing
 When a user shares quality content from other creators to their own space. If a person views the original content from the shared connection and rewards the content, the active user will receive 50% of the reward amount and the other 50% is distributed to the original content author.
-![Image](https://github.com/Tipfeecoin/File/blob/main/ShareFlow.png)
+<br>
+<br>
 
+
+![Image](https://github.com/Tipfeecoin/File/blob/main/SharedFlow.png)
+
+
+
+<br>
+<br>
+<br>
 
 *  ## Publicly shared content
 All shared content is public and cannot be hidden or deleted to ensure that quality content is distributed to as many people as possible. Every piece of content that is shared is a representation of the attitude and image of the person who shares it. This will have an impact on the popularity of the person sharing. If a user shares content that is spam, it may have a negative impact on the user's popularity in the application and may even be the subject of a report by other users. Conversely, users who share content that is helpful to others will increase their own popularity.
@@ -115,8 +124,19 @@ All shared content is public and cannot be hidden or deleted to ensure that qual
 *  ## Add comments and earn rewards
 Add comments and earn rewards
 The app introduces a comment reward mechanism to increase the activity and interactivity of the content, while complementing the original author's content, in order to make comments useful to more users. Through the reward mechanism, users will be encouraged to actively participate in commenting interactions and will have the opportunity to earn rewards after posting comments under other people's content. 80% of the reward amount is given to the commenter, and the remaining 20% is given to the original author of the content. The more rewards a comment has, the higher the ranking of that comment will be. This also means that comments with a high rate of acceptance will have the opportunity to be seen by a larger number of people.
+<br>
+<br>
 
-![Image](https://github.com/Tipfeecoin/File/blob/main/CommentsFlow.png)
+
+
+
+![Image](https://github.com/Tipfeecoin/File/blob/main/CommentFlow.png)
+
+
+<br>
+<br>
+<br>
+
 
 *  ## Online Mall
 The application allows any account to apply to become a takeaway merchant by providing a legal local business license. Merchants can add items to the app store and sell them to all users. The Online Store is intended primarily for local businesses and is designed to make it easy for users to quickly find local items in the online mall. This includes, but is not limited to, local department stores, movie tickets, tourist attraction tickets, restaurants, hostels, bars, and hair salons.
@@ -186,9 +206,15 @@ Here is an application example using JavaScript code.
 55% of each ad revenue belongs to all $TPF holders, 35% will go to the app's operating fund, and 10% will go to support charitable causes. The charitable fund is primarily responsible for achieving the social responsibility goals set by our executives. The use of the charitable fund is determined by a vote of all $TPF holders.
 
 The program calculates and deposits the amount paid by advertisers into the distribution account, 10% will be deposited into the charitable fund, 55% will be distributed to all $TPF holders, and 35% will be deposited into the operating fund. The program reads the addresses of all $TPF holders from the Ethernet and within the application, respectively, and reorders them from largest to smallest based on the number of $TPF held. The amount due to each $TPF holder is calculated. Once the calculation is complete, the program will transfer the proceeds from the allocated account to the accounts of all $TPF holders one by one. If the holder is already logged into the program, the transfer will go directly to the holder's in-app account with an alert, otherwise it will go to the holder's wallet address.
+<br>
+<br>
+<br>
 
-![Image](https://github.com/Tipfeecoin/File/blob/main/Ads%20Revenge.png)
+![Image](https://github.com/Tipfeecoin/File/blob/main/RevenuesFlow.png)
 
+<br>
+<br>
+<br>
 
 
 
