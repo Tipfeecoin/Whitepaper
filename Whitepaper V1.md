@@ -106,7 +106,7 @@ When users share high-quality content from other creators in their own space, if
 <br>
 
 
-![Image](https://github.com/Tipfeecoin/File/blob/main/SharedFlow.png)
+![Image](https://github.com/Tipfeecoin/File/blob/main/SharedFlow1.png)
 
 
 
@@ -130,7 +130,7 @@ The app introduces a comment reward mechanism to increase the activity and inter
 
 
 
-![Image](https://github.com/Tipfeecoin/File/blob/main/CommentFlow.png)
+![Image](https://github.com/Tipfeecoin/File/blob/main/CommentFlow1.png)
 
 
 <br>
