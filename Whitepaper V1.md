@@ -179,6 +179,26 @@ Advertisements are presented as content in the application in a way that does no
 
 
 Here is an application example using JavaScript code.
+<br>
+<br>
+<pre>
+<code>
+
+       var h = new Date().getHours();
+       var t = "";
+       var n = "";
+       if(h >= 7 && h <= 13){
+       t = "Ads1";  
+　　　  }else if(h >= 14 && h <= 20){
+       t = "Ads2";
+　　　　}
+       else if(h >= 21 || h <= 6){
+       t = "Ads3";
+  　　 }
+　     document.getElementById('time_ads').innerHTML = t;
+
+</code>
+</pre>
 
 
 
@@ -191,7 +211,7 @@ The program reads the addresses of all $TPF holders from the Ethernet and within
 <br>
 <br>
 
-![Image](https://github.com/Tipfeecoin/File/blob/main/RevenuesFlow.png)
+![Image](https://github.com/Tipfeecoin/File/blob/main/RevenuesFlow1.png)
 
 <br>
 <br>
