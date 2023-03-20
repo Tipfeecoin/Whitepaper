@@ -35,7 +35,7 @@ The application introduces a new decentralized social networking model designed 
 - [Community Governance](#community-governance) 
 - [Get rewarded for producing content](#get-rewarded-for-producing-content) 
 - [Full Web Access Tag](#full-web-access-tag) 
-- [Achievement Tags](#achievement-tags) 
+- [Achievement Titles](#achievement-titles) 
 
 - [Earn money for sharing](#earn-money-for-sharing)
 - [Publicly shared content](#publicly-shared-content)
@@ -92,7 +92,7 @@ Once a user has been given a network-wide access tag, they can add the title to 
 <br>
 
 
-*  ## Achievement Tags
+*  ## Achievement Titles
 
 Users can add titles to the content they are interested in. For content creators, this is important. Each label represents an achievement earned by the content creator, and the title will display these achievements on the content creator's home page. Each tag rated by a user will show which user gifted each title. This way of giving tags to content creators will give a sense of accomplishment to both the creator of the content and the person who provided the label. Any user can share their earned titles and achievements on other networks or social applications
 <br>
