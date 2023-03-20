@@ -221,11 +221,13 @@ The program reads the addresses of all $TPF holders from the Ethernet and within
 
 *  ## TPF Economic Model
 
-Total number of tokens  12,000,000,000,000
+Total number of tokens : 12,000,000,000,000
 
-Uniswap injected  89.7%
+Supply : 86.66%
 
-Team hold  10.3%
+Project : 8%
+
+Popularize : 5.34%
 
 <br>
 <br>
