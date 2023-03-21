@@ -35,7 +35,7 @@ The application introduces a new decentralized social networking model designed 
 - [Community Governance](#community-governance) 
 - [Get rewarded for producing content](#get-rewarded-for-producing-content) 
 - [Full Web Access Tag](#full-web-access-tag) 
-- [Achievement Titles](#achievement-titles) 
+- [Achievement Tag](#achievement-tag) 
 
 - [Earn money for sharing](#earn-money-for-sharing)
 - [Publicly shared content](#publicly-shared-content)
@@ -92,9 +92,9 @@ Once a user has been given a network-wide access tag, they can add the title to 
 <br>
 
 
-*  ## Achievement Titles
+*  ## Achievement Tag
 
-Users can add titles to the content they are interested in. For content creators, this is important. Each label represents an achievement earned by the content creator, and the title will display these achievements on the content creator's home page. Each tag rated by a user will show which user gifted each title. This way of giving tags to content creators will give a sense of accomplishment to both the creator of the content and the person who provided the label. Any user can share their earned titles and achievements on other networks or social applications
+Users can add tags to the content of interest. For content creators, this is important. Each tag represents an achievement the content creator has earned and is displayed on the creator's home page. Each tag submitted by a user will show the source. This way of tagging content creators will give both the creator of the content and the person who provided the tag with a sense of accomplishment. Users can share their achievements in Tipfee's app on other networks or social apps.
 <br>
 <br>
 <br>
