@@ -34,7 +34,7 @@ The application introduces a new decentralized social networking model designed 
 - [Permission-based user management](#permission-based-user-management) 
 - [Community Governance](#community-governance) 
 - [Get rewarded for producing content](#get-rewarded-for-producing-content) 
-- [Full Web Access Tag](#full-web-access-tag) 
+- [Web Accessible Pass](#web-accessible-pass) 
 - [Achievement Tag](#achievement-tag) 
 
 - [Earn money for sharing](#earn-money-for-sharing)
@@ -82,11 +82,10 @@ Every user can share beautiful things and items in the app through text, picture
 <br>
 <br>
 
-*  ## Full Web Access Tag
-Total Web Access Tag is an ad tagging module with time limits and content push. It is only available when a user posts content. When content is tagged as Full Web Access, that content is seen by everyone in the application.
+*  ## Web Accessible Pass
+The network-wide accessible pass is an ad tagging module with time limits and content push. It is only available when a user posts content. When content is added to a network-wide access pass, it is seen by everyone on the application.
 
-The application generates 120 network-wide access tags every 6 hours and randomly assigns them to all standard users with different permissions.
-Once a user has been given a network-wide access tag, they can add the title to their creative content or sell it to other users.
+The application generates 120 network-wide accessible passes every 6 hours and randomly assigns them to all standard users with different permissions. Once a user has a network-wide accessible pass, they can add it to their content creation or sell it to other users.
 <br>
 <br>
 <br>
